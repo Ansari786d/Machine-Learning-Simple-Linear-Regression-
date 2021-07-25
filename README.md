@@ -1,1 +1,1 @@
-# Machine-Learning-Simple-Linear-Regression-
+# Salary Prediction Using Linear Regression
